@@ -1,11 +1,11 @@
 {
-    "name": "topthink/think-queue",
+    "name": "summering998/queue-redisentinel",
     "description": "The ThinkPHP5 Queue Package",
     "type": "think-extend",
     "authors": [
         {
-            "name": "yunwuxin",
-            "email": "448901948@qq.com"
+            "name": "summeringc",
+            "email": "summeringc@gmail.com"
         }
     ],
     "license": "Apache-2.0",
@@ -19,7 +19,8 @@
     },
     "require": {
         "topthink/think-helper": ">=1.0.4",
-        "topthink/think-installer": ">=1.0.10"
+        "topthink/think-installer": ">=1.0.10",
+	"summering998/redissentinel":"dev-master",
     },
     "extra": {
         "think-config": {
