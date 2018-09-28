@@ -1,6 +1,7 @@
 {
     "name": "summering998/queue-sentinel",
     "description": " The ThinkPHP5 Queue Package ",
+    "type": "think-extend",
     "authors": [
         {
             "name": "summeringc",
