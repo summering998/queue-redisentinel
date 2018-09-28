@@ -1,6 +1,6 @@
 {
-    "name": "summering998/queue-redisentinel",
-    "description": "The ThinkPHP5 Queue Package",
+    "name": "summering998/queue-sentinel",
+    "description": " The ThinkPHP5 Queue Package ",
     "authors": [
         {
             "name": "summeringc",
