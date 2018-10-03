@@ -12,7 +12,7 @@
 namespace think\queue\job;
 
 use think\queue\Job;
-use think\queue\connector\JobDriver as RedisQueue;
+use think\queue\connector\Redis as RedisQueue;
 class Redis extends Job
 {
 
