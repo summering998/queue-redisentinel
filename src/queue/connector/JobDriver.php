@@ -3,7 +3,7 @@ namespace think\queue\connector;
 
 use think\Exception;
 use think\helper\Str;
-use think\queue\job\Redis as RedisJob;
+use think\queue\job\JobDriver as RedisJob;
 use think\queue\Connector;
 use think\sentinel\Sentinel;
 
